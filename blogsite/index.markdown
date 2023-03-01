@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 permalink: /home/
 
-layout: home
+layout: default
 ---
 <style type="text/css" media="screen">
   .container {
